@@ -1,0 +1,29 @@
+body {
+  background-color: #AAA;
+  margin: 3;
+  padding: 1;
+}
+
+
+h1 {
+  color: #BAF;
+  font-family: 'Arial', sans-serif;
+  font-size: 80px;
+  font-weight: 320;
+  line-height: 75px;
+  margin: 3;
+}
+
+
+
+p {
+  color: black;
+  font-family: 'Autobus', sans-serif;
+  font-size: 13px;
+  font-weight: 190;
+  line-height: 23px;
+  margin:  auto;
+  text-align: center;
+  width: 56%;
+}
+
